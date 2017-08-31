@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCamApp.UWP", "CrossCam
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CrossCamApp\CrossCamApp\CrossCamApp.projitems*{2faa120d-3d7e-4615-81ce-7abf3e060541}*SharedItemsImports = 4
 		CrossCamApp\CrossCamApp\CrossCamApp.projitems*{47ad3bcb-6215-4a1b-b488-94aab8ec8f64}*SharedItemsImports = 13
 		CrossCamApp\CrossCamApp\CrossCamApp.projitems*{a82840bd-e6b5-4d00-b497-0dfcaa07f51d}*SharedItemsImports = 4
 		CrossCamApp\CrossCamApp\CrossCamApp.projitems*{f2c43b7d-40ef-4f02-b9b4-8f8cff6cc40f}*SharedItemsImports = 4

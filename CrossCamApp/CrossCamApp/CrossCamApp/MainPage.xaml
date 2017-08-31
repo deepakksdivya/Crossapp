@@ -4,8 +4,9 @@
              xmlns:local="clr-namespace:CrossCamApp"
              x:Class="CrossCamApp.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Button Text="Open Camera" />
+    </StackLayout> 
+    
 
 </ContentPage>
